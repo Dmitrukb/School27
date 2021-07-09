@@ -565,14 +565,11 @@ li {
 	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
 	display: flex;
-	padding: 114px 0
+	padding: 114px 
+        margin-left: 30px;
 }
 
-.footer-text p {
-	margin-left: 67px;
-	
-	color: black;
-}
+
 h3 {
 	margin-right: -10px;
 }
