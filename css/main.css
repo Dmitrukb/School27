@@ -569,9 +569,8 @@ li {
 }
 
 .footer-text p {
-	margin-right: 67px;
-	position: relative;
-	left: 5px;
+	margin-left: 67px;
+	
 	color: black;
 }
 h3 {
